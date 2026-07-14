@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
 - 😄 **Pronouns:** Anas ( BLACKLIST )
 - ⚡ **Fun fact:**  I enjoy exploring ancient Indian astronomy while solving modern coding problems. 🌌
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stc_blacklist) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohd Anas) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MOHD ANAS) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohd.anas.gt3@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stc_blacklist) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohd Anas)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohd.anas.gt3@gmail.com) [Twitter](https://x.com/MohdAnas83822)
 
 <!-- Snake Game Repo View -->
 
