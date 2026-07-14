@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mohd Anas
-**A passionate Data Science Engineer || Analytics Engineer || Digital Systems Developer
+*A passionate Data Science Engineer || Analytics Engineer || Digital Systems Developer
 
 Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -10,7 +10,11 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
 - 😄 **Pronouns:** Anas ( BLACKLIST )
 - ⚡ **Fun fact:**  I enjoy exploring ancient Indian astronomy while solving modern coding problems. 🌌
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stc_blacklist) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohd Anas)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohd.anas.gt3@gmail.com) [Twitter](https://x.com/MohdAnas83822)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stc_blacklist) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohd Anas)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohd.anas.gt3@gmail.com) [Twitter](https://x.com/MohdAnas83822)[1:27 pm, 02/07/2026] انس: linkedin : https://www.linkedin.com/in/mohd-anas-64a1312a3/
+[1:35 pm, 02/07/2026] انس: GITHUB : https://github.com/mohdanas-hash
+[1:36 pm, 02/07/2026] انس: CODOLIO : https://codolio.com/profile/BLACKLIST
+[1:37 pm, 02/07/2026] انس: leetcode : https://leetcode.com/u/Anas_69/
+[1:38 pm, 02/07/2026] انس: Hackerrank : https://www.hackerrank.com/profile/mohd_anas_gt3
 
 <!-- Snake Game Repo View -->
 
