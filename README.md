@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
 - 😄 **Pronouns:** Anas ( BLACKLIST )
 - ⚡ **Fun fact:**  I enjoy exploring ancient Indian astronomy while solving modern coding problems. 🌌
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stc_blacklist) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohd Anas)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohd.anas.gt3@gmail.com) [Twitter](https://x.com/MohdAnas83822)   [CODOLIO] (https://codolio.com/profile/BLACKLIST)    [leetcode] (https://leetcode.com/u/Anas_69/)   [Hackerrank] (https://www.hackerrank.com/profile/mohd_anas_gt3)
+ <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohd Anas) <br/> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohd.anas.gt3@gmail.com) <br/>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stc_blacklist) <br/>[Twitter](https://x.com/MohdAnas83822)  <br/> [CODOLIO] (https://codolio.com/profile/BLACKLIST)    <br/>[leetcode] (https://leetcode.com/u/Anas_69/)   <br/>[Hackerrank] (https://www.hackerrank.com/profile/mohd_anas_gt3)<br/>
 
 <!-- Snake Game Repo View -->
 
