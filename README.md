@@ -30,6 +30,11 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdanas-hash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
 </p>
 
+⚡ Animated Typing Header
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Mohd+Anas!;Exploring+Ancient+Indian+Astronomy;Solving+Modern+Coding+Problems;Full-Stack+%26+Cloud+Enthusiast" alt="Typing SVG" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohdanas-hash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
