@@ -39,9 +39,7 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohdanas-hash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🎨 Dynamic Animated Wave Header
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohd%20Anas&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 
 
