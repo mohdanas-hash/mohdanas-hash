@@ -43,10 +43,6 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohd%20Anas&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-🧊 3D Contribution Grid
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohdanas-hash/mohdanas-hash/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
-</p>
 
 
 ### ✍️ Random Dev Quote
