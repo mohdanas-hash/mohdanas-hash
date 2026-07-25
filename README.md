@@ -63,3 +63,15 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
 2. 🚀 Pushed 3 commits to `mohdanas-hash/data-structures-and-algorithms`
 3. 🎉 Merged PR in `mohdanas-hash/mobile-store-management`
 <!--END_SECTION:activity-->
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Mohd%20Anas&fontSize=50&animation=fadeIn" />
+</p>
+### 🛠 Tools & Tech I Work With
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nodejs,mongodb,aws,gcp,git,github,docker,postman&perline=6" />
+  </a>
+</p>
