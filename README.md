@@ -66,9 +66,7 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Mohd%20Anas&fontSize=50&animation=fadeIn" />
-</p>
+
 ### 🛠 Tools & Tech I Work With
 <p align="center">
   <a href="https://skillicons.dev">
