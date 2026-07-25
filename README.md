@@ -53,3 +53,13 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
 [![](https://komarev.com/ghpvc/?username=mohdanas-hash&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#12](https://github.com/mohdanas-hash) in `mohdanas-hash/resume-analyzer`
+2. 🚀 Pushed 3 commits to `mohdanas-hash/data-structures-and-algorithms`
+3. 🎉 Merged PR in `mohdanas-hash/mobile-store-management`
+<!--END_SECTION:activity-->
