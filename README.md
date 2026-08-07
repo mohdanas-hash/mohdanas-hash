@@ -74,3 +74,6 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
     <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nodejs,mongodb,aws,gcp,git,github,docker,postman&perline=6" />
   </a>
 </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Analytics+Engineer;Building+Scalable+Data+Pipelines;Exploring+React+%2B+Node.js+%2B+Cloud;Astronomy+Buff+%2B+Algorithmic+Coder" alt="Typing SVG" />
+</div>
