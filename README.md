@@ -77,3 +77,36 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Analytics+Engineer;Building+Scalable+Data+Pipelines;Exploring+React+%2B+Node.js+%2B+Cloud;Astronomy+Buff+%2B+Algorithmic+Coder" alt="Typing SVG" />
 </div>
+## 🛠️ Organized Skill Matrix
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Data & Analytics</h3>
+      <ul>
+        <li><b>Languages:</b> Python, Scala, SQL</li>
+        <li><b>Big Data:</b> Apache Spark, Kafka, Hadoop, Hive, Flink</li>
+        <li><b>Orchestration:</b> Apache Airflow</li>
+        <li><b>Databases:</b> PostgreSQL, MongoDB, Cassandra, MSSQL</li>
+        <li><b>BI Tools:</b> Power BI, Pandas, NumPy, Matplotlib</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Web Development</h3>
+      <ul>
+        <li><b>Frontend:</b> React, HTML5, Bootstrap</li>
+        <li><b>Backend:</b> Node.js, JavaScript, Django</li>
+        <li><b>APIs:</b> RESTful APIs, JSON Integration</li>
+        <li><b>Hosting:</b> Cloudflare, Netlify</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Core & Cloud Systems</h3>
+      <ul>
+        <li><b>Languages:</b> C++, C, Go, Java</li>
+        <li><b>Cloud Services:</b> AWS, Google Cloud, Azure, Oracle</li>
+        <li><b>Tools:</b> Git, GitHub, Anaconda</li>
+      </ul>
+    </td>
+  </tr>
+</table>
