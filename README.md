@@ -30,8 +30,7 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdanas-hash&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdanas-hash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
-</p>
+
 
 
 
