@@ -27,7 +27,11 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
 # 📊 GitHub Stats:
 
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdanas-hash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdanas-hash&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
+  <br/>
 
 
 
