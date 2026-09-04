@@ -83,20 +83,20 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
     <td width="33%" valign="top">
       <h3 align="center">Data & Analytics</h3>
       <ul>
-        <li><b>Languages:</b> Python, Scala, SQL</li>
+        <li><b>Languages:</b> Python, Scala, SQL,C++,C</li>
         <li><b>Big Data:</b> Apache Spark, Kafka, Hadoop, Hive, Flink</li>
         <li><b>Orchestration:</b> Apache Airflow</li>
-        <li><b>Databases:</b> PostgreSQL, MongoDB, Cassandra, MSSQL</li>
+        <li><b>Databases:</b> PostgreSQL, MongoDB, Cassandra, MSSQL,Supabase</li>
         <li><b>BI Tools:</b> Power BI, Pandas, NumPy, Matplotlib</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Web Development</h3>
       <ul>
-        <li><b>Frontend:</b> React, HTML5, Bootstrap</li>
+        <li><b>Frontend:</b> React, HTML5,CSS,Typescript Bootstrap</li>
         <li><b>Backend:</b> Node.js, JavaScript, Django</li>
         <li><b>APIs:</b> RESTful APIs, JSON Integration</li>
-        <li><b>Hosting:</b> Cloudflare, Netlify</li>
+        <li><b>Hosting:</b> Cloudflare, Netlify,Vercel</li>
       </ul>
     </td>
     <td width="33%" valign="top">
