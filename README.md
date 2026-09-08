@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Mohd+Anas!;Exploring+Ancient+Indian+Astronomy;Solving+Modern+Coding+Problems;Full-Stack+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Mohd+Anas!;Exploring+Ancient+Astronomy;Solving+Modern+Coding+Problems;Full-Stack+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </div><br/>
 
 *A passionate Data Science Engineer || Analytics Engineer || Digital Systems Developer
@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **mohd.anas.gt3@gmail.com** For Collaboration/Project or An
 - 🤔 **I’m looking for help with:** E‑commerce platform for mobile products (React + Node + MongoDB)
 - 📫 **How to reach me:** mohd.anas.gt3@gmail.com
 - 😄 **Pronouns:** Anas ( BLACKLIST )
-- ⚡ **Fun fact:**  I enjoy exploring ancient Indian astronomy while solving modern coding problems. 🌌
+- ⚡ **Fun fact:**  I enjoy exploring ancient astronomy while solving modern coding problems. 🌌
 ## 🌐 Socials:
  <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] <br/> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohd.anas.gt3@gmail.com) <br/>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stc_blacklist) <br/>[Twitter](https://x.com/MohdAnas83822)  <br/> [CODOLIO] (https://codolio.com/profile/BLACKLIST)    <br/>[leetcode] (https://leetcode.com/u/Anas_69/)   <br/>[Hackerrank] (https://www.hackerrank.com/profile/mohd_anas_gt3)<br/>
 
