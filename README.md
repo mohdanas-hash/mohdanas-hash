@@ -33,8 +33,6 @@ Maximum Streak = 56 Days
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohdanas-hash&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🔝 Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdanas-hash&layout=compact&theme=dark)
