@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Mohd+Anas!;Exploring+Ancient+Astronomy;Solving+Modern+Coding+Problems;Full-Stack+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Mohd+Anas!;Exploring+Data+Structures+Algorithm;Solving+Modern+Coding+Problems;Full-Stack+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </div><br/>
 
 *A passionate Data Science Engineer || Analytics Engineer || Digital Systems Developer
