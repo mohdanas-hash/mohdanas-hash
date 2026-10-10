@@ -65,10 +65,10 @@ Maximum Streak = 56 Days
     <td width="33%" valign="top">
       <h3 align="center">Data & Analytics</h3>
       <ul>
-        <li><b>Languages:</b> Python, Scala, SQL,C++,C</li>
-        <li><b>Big Data:</b> Apache Spark, Kafka, Hadoop, Hive, Flink</li>
+        <li><b>Languages:</b> Python, SQL,C++,C </li>
+        <li><b>Big Data:</b> Apache Spark, Kafka, Hadoop, Hive, Flink </li>
         <li><b>Orchestration:</b> Apache Airflow</li>
-        <li><b>Databases:</b> PostgreSQL, MongoDB, Cassandra, MSSQL,Supabase</li>
+        <li><b>Databases:</b> PostgreSQL, MongoDB, Cassandra, MySQL, Supabase</li>
         <li><b>BI Tools:</b> Power BI, Pandas, NumPy, Matplotlib</li>
       </ul>
     </td>
