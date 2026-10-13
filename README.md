@@ -4,12 +4,11 @@
 
 *A passionate Data Science Engineer || Analytics Engineer || Digital Systems Developer
 
-- 🔭 **I’m currently working on:**  Real‑world project: Mobile store management system
+- 🔭 **I’m currently working on:**  Real‑world project: Hostel Hive (Off‑campus student housing platform)
 - 🌱 **I’m currently learning:** Web development (React + Node.js)
-- 🤔 **I’m looking for help with:** E‑commerce platform for mobile products (React + Node + MongoDB)
 - 📫 **How to reach me:** mohd.anas.gt3@gmail.com
 - 😄 **Pronouns:** Anas ( BLACKLIST )
-- ⚡ **Fun fact:**  I enjoy exploring ancient astronomy while solving modern coding problems. 🌌
+- ⚡ **Fun fact:**  I enjoy exploring ancient history while solving modern coding problems. 🌌
 
 
 <!-- Snake Game Repo View -->
