@@ -5,7 +5,7 @@
 *A passionate Data Science Engineer || Analytics Engineer || Digital Systems Developer
 
 - 🔭 **I’m currently working on:**  Real‑world project: Hostel Hive (Off‑campus student housing platform)
-- 🌱 **I’m currently learning:** Web development (React + Node.js)
+- 🌱 **I’m currently learning:** Web development (React + Node.js) 
 - 📫 **How to reach me:** mohd.anas.gt3@gmail.com
 - 😄 **Pronouns:** Anas ( BLACKLIST )
 - ⚡ **Fun fact:**  I enjoy exploring ancient history while solving modern coding problems. 🌌
@@ -75,7 +75,7 @@ Maximum Streak = 56 Days
       <h3 align="center">Web Development</h3>
       <ul>
         <li><b>Frontend:</b> React, HTML5,CSS,Typescript Bootstrap</li>
-        <li><b>Backend:</b> Node.js, JavaScript, Django</li>
+        <li><b>Backend:</b> Node.js, JavaScript, Django,FASTAPI</li>
         <li><b>APIs:</b> RESTful APIs, JSON Integration</li>
         <li><b>Hosting:</b> Cloudflare, Netlify,Vercel</li>
       </ul>
@@ -83,7 +83,7 @@ Maximum Streak = 56 Days
     <td width="33%" valign="top">
       <h3 align="center">Core & Cloud Systems</h3>
       <ul>
-        <li><b>Languages:</b> C++, C, Go, Java</li>
+        <li><b>Languages:</b> C++, C, Java, Go</li>
         <li><b>Cloud Services:</b> AWS, Google Cloud, Azure, Oracle</li>
         <li><b>Tools:</b> Git, GitHub, Anaconda</li>
       </ul>
