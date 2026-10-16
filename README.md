@@ -36,7 +36,9 @@ Maximum Streak = 56 Days
 ### 🔝 Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdanas-hash&layout=compact&theme=dark)
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=mohdanas-hash&icon=0&color=0)](https://visitcount.itsvg.in)
+### [![Visitor Count](https://img.shields.io/badge/Profile_Views-Active-00F0FF?style=for-the-badge&logo=github)](https://github.com/mohdanas-hash)
+
+### ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mohdanas-hash.mohdanas-hash)
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
