@@ -27,7 +27,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdanas-hash&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
   <br/>
 
-Maximum Streak = 56 Days 
+Maximum Streak = 56 Days (Jul 11 - Sept 04)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
